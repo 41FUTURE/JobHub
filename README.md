@@ -1,5 +1,5 @@
-<p class="has-line-data" data-line-start="0" data-line-end="2">JobHub<br>
-This is a job searching app built with React Native. It allows users to search for jobs by keywords and paginate through the results. The app fetches data from an external API and displays it in a visually appealing UI.</p>
+<h1 class="has-line-data" data-line-start="0" data-line-end="2">JobHub<br>
+This is a job searching app built with React Native. It allows users to search for jobs by keywords and paginate through the results. The app fetches data from an external API and displays it in a visually appealing UI.</h1>
 <p class="has-line-data" data-line-start="3" data-line-end="16">Features<br>
 Search for jobs by keyword<br>
 Paginate through the results<br>
