@@ -1,4 +1,8 @@
-<h1 class="has-line-data" data-line-start="0" data-line-end="2">JobHub</h1><p
+<h1 class="has-line-data" data-line-start="0" data-line-end="2">JobHub</h1>
+  <img src="https://imgur.com/IUsHpKK.jpg" alt="login">
+<img src="https://imgur.com/VdSvfLY.jpg" alt="dashboard">
+<img src="https://imgur.com/kSEP7vI.jpg" alt="respo">
+<p
 This is a job searching app built with React Native. It allows users to search for jobs by keywords and paginate through the results. The app fetches data from an external API and displays it in a visually appealing UI.</p>
 <p class="has-line-data" data-line-start="3" data-line-end="16">Features<br>
 Search for jobs by keyword<br>
@@ -22,3 +26,4 @@ To search for jobs, type a keyword in the search bar and click the search button
 This project was built as a way to learn React Native and how to integrate external APIs into mobile applications. Through building this app, I learned how to create visually appealing UIs, implement search and pagination functionality, and write clean and organized code. Additionally, I learned about best practices for React Native development, such as using custom hooks and proper component architecture.</p>
 <p class="has-line-data" data-line-start="26" data-line-end="28">Conclusion<br>
 Overall, this project was a great way to learn about React Native development and integrating external APIs. The app is functional, visually appealing, and easy to use.</p>
+
